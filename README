@@ -1,0 +1,7 @@
+Xramble (pronounced scramble)
+
+A library for mapping between xml documents and ruby classes.
+
+Written because it feels like there is room for improvement in
+the ruby xml / xsd / soap world.
+
