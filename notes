@@ -1,0 +1,18 @@
+xramble - xml mapping library
+
+components:
+ - ruby emitter
+  - classes
+ - xsd parser
+  - need to read xsd specifications
+ - xml parser
+  - libxml or rexml for starters?
+  - start with an abstract layer
+ - mapper libraries
+  - from xml
+  - to xml
+  - optimized from xml
+   - sax vs. dom?
+  - name mapping
+   - for example to underscore
+
